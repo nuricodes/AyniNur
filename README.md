@@ -66,7 +66,8 @@ I am a Full-Stack Developer with a passion for solving human problems using a va
 ## Github Stats  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayninur&show_icons=true&locale=en&layout=compact" alt="ayninur" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayninur&" alt="ayninur" /></p> 
+<p> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayninur" align="center" width="40%"/></p>
 
 ## Connect with me  
 <div align="center">
