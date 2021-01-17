@@ -68,7 +68,7 @@ I am a Full-Stack Developer with a passion for solving human problems using a va
         <a href="/" rel="nofollow">
             <img src="https://media.giphy.com/media/elJzCZW62bqTCTWoIU/giphy.gif" width="90%" alt="Safari" data-canonical-src="https://media.giphy.com/media/elJzCZW62bqTCTWoIU/giphy.gif" style="max-width:100%;">
         </a>
-        <p><strong>is a React/Rails app</p>
+        <p><strong>React/Rails app</p>
     </td>
     <br />
     <td width="33%" >
